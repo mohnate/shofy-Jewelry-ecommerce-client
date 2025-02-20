@@ -72,7 +72,7 @@ To get started with Shofy, follow these steps:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Hamed-Hasan/shofy-Jewelry-ecommerce-client.git
+   https://github.com/mohnate/shofy-Jewelry-ecommerce-client.git
    ```
 
 2. Install dependencies:
@@ -104,14 +104,6 @@ To get started with Shofy, follow these steps:
 ## Server Side Live Link
 
 [Shofy Server Side Live Link](https://shofy-backend.vercel.app)
-
-## Client Side Repo
-
-[Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-Jewelry-ecommerce-client.git)
-
-## Server Side Repo
-
-[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-Jewelry-ecommerce-backend.git)
 
 ## Sources and Credits
 
